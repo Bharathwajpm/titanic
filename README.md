@@ -1,0 +1,50 @@
+📌 Project: House Condition Classification
+
+This task trains a machine learning classification model to predict the house condition category (good/bad) based on numerical features.
+
+🔍 Key Steps Performed
+
+Loaded and cleaned the dataset
+
+Dropped non-numeric columns
+
+Imputed missing values using SimpleImputer
+
+Encoded target variable
+
+Scaled data using StandardScaler
+
+Built Logistic Regression model
+
+Tested accuracy
+
+🤖 Model Used
+
+scikit-learn LogisticRegression
+
+Includes:
+
+Imputer
+
+StandardScaler
+
+Accuracy evaluation
+
+📊 Technologies Used
+
+Python
+
+Pandas
+
+NumPy
+
+scikit-learn
+
+▶️ How to Run
+python task3.py
+
+📁 Output
+
+Classification accuracy
+
+Model convergence details
